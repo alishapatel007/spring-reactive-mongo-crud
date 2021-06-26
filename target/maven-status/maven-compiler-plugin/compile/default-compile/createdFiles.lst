@@ -1,0 +1,7 @@
+com\company\reactive\utils\AppUtils.class
+com\company\reactive\service\ProductService.class
+com\company\reactive\dto\ProductDto.class
+com\company\reactive\entity\Product.class
+com\company\reactive\SpringReactiveMongoCrudApplication.class
+com\company\reactive\controller\ProductController.class
+com\company\reactive\repo\ProductRepository.class

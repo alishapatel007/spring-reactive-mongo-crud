@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      database: Productsdb
+      host: host.docker.internal
+      port: 27017
+
+server:
+  port: 9295
